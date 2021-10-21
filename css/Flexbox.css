@@ -41,5 +41,17 @@
 }
 
 .conteudoPrincipal-cursos-link{
-    width: 20%
+    width: 23%
+}
+
+/*MOBILE*/
+
+.cabecalhoPrincipal-nav{
+    flex-direction: column;
+}
+
+.cabecalhoPrincipal .container{
+    flex-direction: column;
+    align-items: initial;
+    text-align: center;
 }
